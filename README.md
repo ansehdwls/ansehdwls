@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 
 <!--
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ansehdwls&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ansehdwls&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="ansehdwls's github stats" /></a>
 -->
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansehdwls&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/ansehdwls"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansehdwls&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/> </t>
